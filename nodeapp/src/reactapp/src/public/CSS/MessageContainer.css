@@ -1,0 +1,15 @@
+.MessageContainer {
+    width: 100%;
+    height: 86%;
+    overflow-y: auto;
+}
+
+.bottombutton{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #ababab;
+    z-index: 1000;
+}
